@@ -5,3 +5,7 @@ A repository for installation scripts.
 
 * [Setup Git Flow](./SETUP_GITFLOW.md)
 * [Setup ZSH with Powerline9k](./SETUP_ZSH_POWERLINE.md)
+
+## Development Tools
+
+* [JDK](./SETUP_JDK.md)
